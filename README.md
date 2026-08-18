@@ -9,7 +9,7 @@ To reproduce the analysis, download the Supplementary Data files and ensure they
 
 ---
 
-### 🍷 Figure 2: The Liquid Time Capsule (Historical Baseline)
+### Figure 2: The Liquid Time Capsule (Historical Baseline)
 **Associated Data File:** `Data S1.xlsx`
 * **`figure2A_climate.R`** -> Reads sheet **Fig 2A** (Historical climate trends)
 * **`figure2B_C13C12.R`** -> Reads sheet **Fig 2B** (Stable carbon isotope ratios)
@@ -21,7 +21,7 @@ To reproduce the analysis, download the Supplementary Data files and ensure they
 
 ---
 
-### 🌍 Figure 3: The Global Snapshot (Contemporary Spatial Variance)
+### Figure 3: The Global Snapshot (Contemporary Spatial Variance)
 **Associated Data File:** `Data S2.xlsx`
 * **`figure3A_tem,HI.R`** -> Reads sheets **Fig 3A_map** and **Fig 3A_tem,HI** (Regional climate profiles and Huglin Index)
 * **`figure3B_PCA,PCvsHI.R`** -> Reads sheet **Fig 3B** (Global metabolic variance and PCA score plots)
@@ -30,7 +30,7 @@ To reproduce the analysis, download the Supplementary Data files and ensure they
 
 ---
 
-### 🔮 Figure 4: The Predictive Blueprint (Future Climate Forcing)
+### Figure 4: The Predictive Blueprint (Future Climate Forcing)
 **Associated Data File:** `Data S3.xlsx`
 * **`figure4B_metabolite.R`** & **`figure4B_vplot.R`** -> Reads sheet **Fig 4B** (Longitudinal metabolic volatility and forecasting)
 * **`figure4C_16metabolite barplot.R`** -> Reads sheet **Fig 4C** (Precursor dose-response shifts)
@@ -39,7 +39,7 @@ To reproduce the analysis, download the Supplementary Data files and ensure they
 
 ---
 
-### 🧬 Figure 5 & Supplementary Fig. S1: Multiscale Integration
+### Figure 5 & Supplementary Fig. S1: Multiscale Integration
 **Associated Data File:** `Data S4.xlsx`
 * **`figureS1B_markers.R`** -> Reads sheets **FigS1B_Past**, **FigS1B_Present**, and **FigS1B_Future** (Cross-timeline thermal sensitivity swarm plots)
 * **`figureS1CD.R`** -> Reads sheets **FigS1C** and **FigS1D** (Tripartite climatic/spatial validation matrix)
